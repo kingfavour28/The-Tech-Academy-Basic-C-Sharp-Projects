@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Daily_Report_Assignment\Daily_Report_Assignment\bin\Debug\Daily_Report_Assignment.exe.config
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Daily_Report_Assignment\Daily_Report_Assignment\bin\Debug\Daily_Report_Assignment.exe
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Daily_Report_Assignment\Daily_Report_Assignment\bin\Debug\Daily_Report_Assignment.pdb
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Daily_Report_Assignment\Daily_Report_Assignment\obj\Debug\Daily_Report_Assignment.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Daily_Report_Assignment\Daily_Report_Assignment\obj\Debug\Daily_Report_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Daily_Report_Assignment\Daily_Report_Assignment\obj\Debug\Daily_Report_Assignment.exe
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Daily_Report_Assignment\Daily_Report_Assignment\obj\Debug\Daily_Report_Assignment.pdb

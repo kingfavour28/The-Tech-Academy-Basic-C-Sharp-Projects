@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Console_Application_Assignment\Console_Application_Assignment\bin\Debug\Console_Application_Assignment.exe.config
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Console_Application_Assignment\Console_Application_Assignment\bin\Debug\Console_Application_Assignment.exe
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Console_Application_Assignment\Console_Application_Assignment\bin\Debug\Console_Application_Assignment.pdb
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Console_Application_Assignment\Console_Application_Assignment\obj\Debug\Console_Application_Assignment.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Console_Application_Assignment\Console_Application_Assignment\obj\Debug\Console_Application_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Console_Application_Assignment\Console_Application_Assignment\obj\Debug\Console_Application_Assignment.exe
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Console_Application_Assignment\Console_Application_Assignment\obj\Debug\Console_Application_Assignment.pdb
