@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Lambda_Expression_Assignment\Lambda_Expression_Assignment\bin\Debug\Lambda_Expression_Assignment.exe.config
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Lambda_Expression_Assignment\Lambda_Expression_Assignment\bin\Debug\Lambda_Expression_Assignment.exe
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Lambda_Expression_Assignment\Lambda_Expression_Assignment\bin\Debug\Lambda_Expression_Assignment.pdb
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Lambda_Expression_Assignment\Lambda_Expression_Assignment\obj\Debug\Lambda_Expression_Assignment.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Lambda_Expression_Assignment\Lambda_Expression_Assignment\obj\Debug\Lambda_Expression_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Lambda_Expression_Assignment\Lambda_Expression_Assignment\obj\Debug\Lambda_Expression_Assignment.exe
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Lambda_Expression_Assignment\Lambda_Expression_Assignment\obj\Debug\Lambda_Expression_Assignment.pdb

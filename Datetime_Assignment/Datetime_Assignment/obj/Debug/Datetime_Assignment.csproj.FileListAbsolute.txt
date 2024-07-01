@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Datetime_Assignment\Datetime_Assignment\bin\Debug\Datetime_Assignment.exe.config
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Datetime_Assignment\Datetime_Assignment\bin\Debug\Datetime_Assignment.exe
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Datetime_Assignment\Datetime_Assignment\bin\Debug\Datetime_Assignment.pdb
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Datetime_Assignment\Datetime_Assignment\obj\Debug\Datetime_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Datetime_Assignment\Datetime_Assignment\obj\Debug\Datetime_Assignment.exe
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\Datetime_Assignment\Datetime_Assignment\obj\Debug\Datetime_Assignment.pdb

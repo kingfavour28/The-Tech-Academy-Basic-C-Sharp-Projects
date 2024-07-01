@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\net5.0\StudentDatabaseApp.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\net5.0\StudentDatabaseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\net5.0\StudentDatabaseApp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\net5.0\StudentDatabaseApp.AssemblyInfo.cs
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\net5.0\StudentDatabaseApp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\dotnet-console-app\bin\Debug\net5.0\dotnet-console-app.exe
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\dotnet-console-app\bin\Debug\net5.0\dotnet-console-app.deps.json
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\dotnet-console-app\bin\Debug\net5.0\dotnet-console-app.runtimeconfig.json
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\dotnet-console-app\bin\Debug\net5.0\dotnet-console-app.runtimeconfig.dev.json
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\dotnet-console-app\bin\Debug\net5.0\dotnet-console-app.dll
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\dotnet-console-app\bin\Debug\net5.0\ref\dotnet-console-app.dll
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\dotnet-console-app\bin\Debug\net5.0\dotnet-console-app.pdb
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\dotnet-console-app\obj\Debug\net5.0\dotnet-console-app.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\dotnet-console-app\obj\Debug\net5.0\dotnet-console-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\dotnet-console-app\obj\Debug\net5.0\dotnet-console-app.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\dotnet-console-app\obj\Debug\net5.0\dotnet-console-app.AssemblyInfo.cs
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\dotnet-console-app\obj\Debug\net5.0\dotnet-console-app.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\dotnet-console-app\obj\Debug\net5.0\dotnet-console-app.dll
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\dotnet-console-app\obj\Debug\net5.0\ref\dotnet-console-app.dll
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\dotnet-console-app\obj\Debug\net5.0\dotnet-console-app.pdb
+C:\Users\HP\Desktop\aolcc\Basic_C#_Programs\dotnet-console-app\obj\Debug\net5.0\dotnet-console-app.genruntimeconfig.cache
