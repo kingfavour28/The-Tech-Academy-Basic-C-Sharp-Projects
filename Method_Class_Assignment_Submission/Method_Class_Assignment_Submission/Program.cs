@@ -13,7 +13,7 @@ namespace Method_Class_Assignment_Submission
             //In the Main() method of the console app, instantiate the class
             Calculation math = new Calculation();
             //Call the method in the class, passing in two numbers
-            math.DoSomethings(30, Param2: 50);
+            math.DoSomethings(30, 50);
             //Call the method in the class, specifying the parameters by name
             math.DoSomethings(Param1: 33, Param2: 55);
             Console.ReadLine();
